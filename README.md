@@ -6,6 +6,7 @@ Avançando no CSS
 ![preview](https://7h14g0d.github.io/Alura_008/imagens/print2.png)
 ![preview](https://7h14g0d.github.io/Alura_008/imagens/print3.png)
 ![preview](https://7h14g0d.github.io/Alura_008/imagens/print4.png)
+![preview](https://7h14g0d.github.io/Alura_008/imagens/print5.png)
 ![preview](https://7h14g0d.github.io/Alura_008/imagens/Certificado.png)
 
 ## 💛💛💛💛💛
